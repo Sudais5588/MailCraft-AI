@@ -4,7 +4,7 @@
 
 Try the live app here:
 
-https://http://localhost:8501/
+https://http:https://mailcraft-ai.streamlit.app/
 ## AI Email Copywriter Pipeline
 
 MailCraft AI is an AI Agent Engineering project built for the SiteArche Virtual Hackathon. It helps students, freelancers, startups, and small businesses generate professional sales email sequences from simple input.
